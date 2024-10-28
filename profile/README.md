@@ -1,13 +1,36 @@
 <div align="center">
-  <h1>👋🏻</h1>
-  안녕하세요, 저희는 <b>Team By</b> 입니다.
-  <br><br><br>
-  <h1>👥</h1>
-  <a href="https://github.com/r6hex-1g"><b>라희</b></a> | <a href="https://github.com/yayyz"><b>반달곰</b></a> | <a href="https://github.com/dc-choi"><b>동글</b></a> | <a href="https://github.com/sihoo67"><b>핑구</b></a> | <a href="https://github.com/touhou09"><b>투후</b></a> | <a href="https://github.com/she0108"><b>눈사람</b></a>
-  <br><br><br>
-  <h1>🏢</h1>
-  <a href="https://by-workspace.notion.site/1272d09c78d1801f999ce2a7d0b79c2d?pvs=74">저희 노션에 놀러오세요 !</a>
-  <br><br><br>
-  <h1>💻</h1>
-  현재는 <b>프로젝트 상의 단계</b>에서 진행중입니다.
+  
+  ![Team By Banner](https://dummyimage.com/800x200/0A1F44/FFFFFF&text=Welcome+to+Team+By)
+
+  <h1>👋🏻 Welcome to <strong>Team By</strong>!</h1>
+  <p>함께 배우고 성장하는 팀, <strong>Team By</strong>를 소개합니다.</p>
+  
+  <br>
+
+  <h2>👥 Meet the Team</h2>
+  <p>
+    <a href="https://github.com/r6hex-1g"><img src="https://img.shields.io/badge/%EB%9D%BC%ED%9D%AC-333.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/yayyz"><img src="https://img.shields.io/badge/%EB%B0%98%EB%8B%AC%EA%B3%B0-333.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/dc-choi"><img src="https://img.shields.io/badge/%EB%8F%99%EA%B8%80-333.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/sihoo67"><img src="https://img.shields.io/badge/%ED%95%91%EA%B5%AC-333.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/touhou09"><img src="https://img.shields.io/badge/%ED%88%AC%ED%9B%84-333.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/she0108"><img src="https://img.shields.io/badge/%EB%88%88%EC%82%AC%EB%9E%8C-333.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </p>
+  
+  <br>
+
+  <h2>🏢 Explore Our Workspace</h2>
+  <p>
+    <a href="https://by-workspace.notion.site/1272d09c78d1801f999ce2a7d0b79c2d?pvs=74" target="_blank">
+      <img src="https://img.shields.io/badge/Visit%20Our%20Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Link"/>
+    </a>
+  </p>
+  
+  <br>
+
+  <h2>💻 Project Status</h2>
+  <p>현재는 <strong>프로젝트 초기 단계</strong>에서 진행 중입니다. Stay tuned!</p>
+
+  <br><br>
+
 </div>
